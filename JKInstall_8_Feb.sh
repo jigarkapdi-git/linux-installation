@@ -62,7 +62,7 @@ sudo nala install thunderbird
 
 #
 #
-#Description : Install Balena etcher, filezilla, shellcheck
+#Description : Install Balena etcher, filezilla, shellcheck, gitg (git repo viewer)
 #
 #
 
